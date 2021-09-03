@@ -1,3 +1,3 @@
 git_course
 ----------
--Git course
+- Git course
