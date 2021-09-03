@@ -1,3 +1,7 @@
 git_course
 ----------
-- Git course
+----------
+### Diagram:
+```seq
+block1->block2:path1
+```
