@@ -2,6 +2,7 @@ git_course
 ----------
 ----------
 ### Diagram:
-```seq
+
+```sequence
 block1->block2:path1
 ```
